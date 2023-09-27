@@ -1,0 +1,55 @@
+.container{
+    display: flex;
+    overflow:scroll;
+    height: 400px;
+}
+
+.con{
+
+    width: 200px;
+    height: 300px;
+    background-image: linear-gradient(to right, rgb(21, 10, 98), rgb(199, 44, 2));
+    margin: 20px;
+    border-style: solid;
+    border-color: rgb(199, 44, 2);
+    border-width: 20px;
+}
+.con2{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 20px;
+    margin: 20pxa;
+
+}
+.sect1{
+    width: 200px;
+    height: 75px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+  
+    
+    
+}
+.sect2{
+    width: 200px;
+    height: 75px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+
+    
+}
+.sect3{
+    width: 200px;
+    height: 75px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+
+  
+}
+.sect4{
+    width: 200px;
+    height: 75px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+
+   
+    
+}
