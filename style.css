@@ -20,35 +20,95 @@
     border-style: solid;
     border-color: yellow;
     border-width: 20px;
-    margin: 20pxa;
+    margin: 20px;
 
 }
-.sect1{
+.con2 .sect1{
     width: 200px;
-    height: 75px;
+    height: 60px;
     background-image: linear-gradient(to right, yellow, yellowgreen);
+    border-bottom: 20px solid yellow;
+    
+    
+}
+.con2 .sect2{
+    width: 200px;
+    height: 60px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+    border-bottom: 20px solid yellow;
+
+    
+}
+.con2 .sect3{
+    width: 200px;
+    height: 60px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+    border-bottom: 20px solid yellow;
+
   
+}
+.con2 .sect4{
+    width: 200px;
+    height: 60px;
+    background-image: linear-gradient(to right, yellow, yellowgreen);
+    border-bottom: 20px solid yellow;
+
+   
+    
+}
+.con3{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-color: deepskyblue;
+    background-image: linear-gradient(to left, deepskyblue, blue);
+    border-width: 20px;
+    margin: 20px;
+
+}
+.con3 .sect1{
+    width: 200px;
+    height: 100px;
+    border-bottom: 20px solid deepskyblue;
     
     
 }
-.sect2{
+.con3 .sect2{
     width: 200px;
-    height: 75px;
-    background-image: linear-gradient(to right, yellow, yellowgreen);
+    height: 20px;
+    border-bottom: 20px solid deepskyblue;
 
     
 }
-.sect3{
-    width: 200px;
-    height: 75px;
-    background-image: linear-gradient(to right, yellow, yellowgreen);
+
+   
+    
+}
+.con3 .sect5{
+    width: 100px;
+    height: 60px;
+    border-bottom: 20px solid deepskyblue;
+    
+    
+}
+.con3 .sect6{
+    width: 100px;
+    height: 60px;
+    border-bottom: 20px solid deepskyblue;
+
+    
+}
+.con3 .sect7{
+    width: 100px;
+    height: 60px;
+    border-bottom: 20px solid deepskyblue;
 
   
 }
-.sect4{
-    width: 200px;
-    height: 75px;
-    background-image: linear-gradient(to right, yellow, yellowgreen);
+.con3 .sect8{
+    width: 100px;
+    height: 60px;
+    border-bottom: 20px solid deepskyblue;
 
    
     
